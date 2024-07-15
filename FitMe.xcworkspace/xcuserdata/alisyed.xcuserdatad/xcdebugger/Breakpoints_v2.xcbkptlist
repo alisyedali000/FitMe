@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "90C2273D-2050-4130-8203-6875C7EA8716"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAEA33E2-4388-4CF2-A21C-1149F91BFF33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "requestDiscoverReciepes(page:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "552367AD-297F-48C4-8D74-EBDDC4F5CB7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "requestSearchRecipes()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB89DFFC-44D6-4F20-AA3A-7519643807E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Recipe/Views/EditRecipe/ViewModel/EditRecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "init(recipe:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB89DFFC-44D6-4F20-AA3A-7519643807E6 - 1077ceaf1bc7a726"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.EditRecipeViewModel.init(recipe: FitMe.RecipeModel) -&gt; FitMe.EditRecipeViewModel"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Recipe/Views/EditRecipe/ViewModel/EditRecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "3568">
+               </Location>
+               <Location
+                  uuid = "BB89DFFC-44D6-4F20-AA3A-7519643807E6 - 1077ceaf1bc7a726"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.EditRecipeViewModel.init(recipe: FitMe.RecipeModel) -&gt; FitMe.EditRecipeViewModel"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Recipe/Views/EditRecipe/ViewModel/EditRecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "3748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF9AB010-CEAB-410E-BB99-95CC5675FEB2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Recipe/Views/EditRecipe/ViewModel/EditRecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "init(recipe:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FF9AB010-CEAB-410E-BB99-95CC5675FEB2 - 1077ceaf1bc7a764"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.EditRecipeViewModel.init(recipe: FitMe.RecipeModel) -&gt; FitMe.EditRecipeViewModel"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Recipe/Views/EditRecipe/ViewModel/EditRecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "3624">
+               </Location>
+               <Location
+                  uuid = "FF9AB010-CEAB-410E-BB99-95CC5675FEB2 - 1077ceaf1bc7a764"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.EditRecipeViewModel.init(recipe: FitMe.RecipeModel) -&gt; FitMe.EditRecipeViewModel"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Recipe/Views/EditRecipe/ViewModel/EditRecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "3804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D11BDC85-B9B5-4D26-B595-F98F7F7DF237"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "DiscoverViewModel"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "D11BDC85-B9B5-4D26-B595-F98F7F7DF237 - 38c32fcd0481c36c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.DiscoverViewModel.sortRecipe(recipes: Swift.Array&lt;FitMe.RecipeModel&gt;) -&gt; Swift.Array&lt;FitMe.RecipeModel&gt;"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "D11BDC85-B9B5-4D26-B595-F98F7F7DF237 - 270552817eeaa72d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FitMe.RecipeModel, FitMe.RecipeModel) -&gt; Swift.Bool in FitMe.DiscoverViewModel.sortRecipe(recipes: Swift.Array&lt;FitMe.RecipeModel&gt;) -&gt; Swift.Array&lt;FitMe.RecipeModel&gt;"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "D11BDC85-B9B5-4D26-B595-F98F7F7DF237 - 270552817eeaa70c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FitMe.RecipeModel, FitMe.RecipeModel) -&gt; Swift.Bool in FitMe.DiscoverViewModel.sortRecipe(recipes: Swift.Array&lt;FitMe.RecipeModel&gt;) -&gt; Swift.Array&lt;FitMe.RecipeModel&gt;"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "D11BDC85-B9B5-4D26-B595-F98F7F7DF237 - 270552817eeaa72d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FitMe.RecipeModel, FitMe.RecipeModel) -&gt; Swift.Bool in FitMe.DiscoverViewModel.sortRecipe(recipes: Swift.Array&lt;FitMe.RecipeModel&gt;) -&gt; Swift.Array&lt;FitMe.RecipeModel&gt;"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCA1127B-386E-4097-82C6-A1F256714213"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "setFoodDislikes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCA1127B-386E-4097-82C6-A1F256714213 - 7093db4a6f3656e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for FitMe.DislikeSelectionViewModel.setFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "DCA1127B-386E-4097-82C6-A1F256714213 - e4698f1b86dc849f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for FitMe.DislikeSelectionViewModel.setFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "DCA1127B-386E-4097-82C6-A1F256714213 - 410a5bb4cc30132f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.setFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "DCA1127B-386E-4097-82C6-A1F256714213 - 410a5bb4cc30132f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.setFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "3396">
+               </Location>
+               <Location
+                  uuid = "DCA1127B-386E-4097-82C6-A1F256714213 - 410a5bb4cc30132f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.setFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "3132">
+               </Location>
+               <Location
+                  uuid = "DCA1127B-386E-4097-82C6-A1F256714213 - 410a5bb4cc3010c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.setFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "3396">
+               </Location>
+               <Location
+                  uuid = "DCA1127B-386E-4097-82C6-A1F256714213 - 410a5bb4cc30132f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.setFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "4592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58BDB14A-D772-4318-97EF-CB0F879B8B67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "getFoodDislikes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58BDB14A-D772-4318-97EF-CB0F879B8B67 - ab999afaa5539852"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.getFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1468">
+               </Location>
+               <Location
+                  uuid = "58BDB14A-D772-4318-97EF-CB0F879B8B67 - ab999afaa553a7b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.getFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1468">
+               </Location>
+               <Location
+                  uuid = "58BDB14A-D772-4318-97EF-CB0F879B8B67 - ab999afaa5539852"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.getFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FAA574E-29E9-4002-86AC-27011F779181"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "searchFoodDislikes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FAA574E-29E9-4002-86AC-27011F779181 - b7d6f906fdf43576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.searchFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1468">
+               </Location>
+               <Location
+                  uuid = "9FAA574E-29E9-4002-86AC-27011F779181 - b7d6f906fdf43555"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.searchFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1468">
+               </Location>
+               <Location
+                  uuid = "9FAA574E-29E9-4002-86AC-27011F779181 - b7d6f906fdf43576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.DislikeSelectionViewModel.searchFoodDislikes() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "721CDFAD-F131-4E89-84E1-873086B141CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "updateSelectedDislikedFoods(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "721CDFAD-F131-4E89-84E1-873086B141CA - 56d352d281f2b921"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.DislikeSelectionViewModel.updateSelectedDislikedFoods(with: Swift.Array&lt;FitMe.FoodDislikes&gt;) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "900">
+               </Location>
+               <Location
+                  uuid = "721CDFAD-F131-4E89-84E1-873086B141CA - 56d352d281f2b921"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.DislikeSelectionViewModel.updateSelectedDislikedFoods(with: Swift.Array&lt;FitMe.FoodDislikes&gt;) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/ViewModel/DislikeSelectionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "928">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF508309-3762-4630-BFA3-8CC181D9F185"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FF508309-3762-4630-BFA3-8CC181D9F185 - 56d99ed65a26090f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #5 () -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "FF508309-3762-4630-BFA3-8CC181D9F185 - 25f14093536587e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #5 () -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "FF508309-3762-4630-BFA3-8CC181D9F185 - 4d45ac391c6f4d09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #5 () -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6275AD0B-9965-4B50-BDB4-C70C7AEAE128"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6275AD0B-9965-4B50-BDB4-C70C7AEAE128 - 56d99ed65a260aa0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #5 () -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "6275AD0B-9965-4B50-BDB4-C70C7AEAE128 - 4541b3038dbac84d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #5 () -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "6275AD0B-9965-4B50-BDB4-C70C7AEAE128 - 7be1e380d6b8f2a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #5 () -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17 - e8560e88d2937b7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1636">
+               </Location>
+               <Location
+                  uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17 - 47ddb840d422801e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17 - eeee125abc6bdd02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 (FitMe.DietPreference) -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17 - e8560e88d2937b7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1600">
+               </Location>
+               <Location
+                  uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17 - dc0eb78261d9ea0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 () -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17 - e8560e88d2937b7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1724">
+               </Location>
+               <Location
+                  uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17 - 47ddb840d422801e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17 - dc0eb78261d9ea0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #6 () -&gt; () in FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17 - e8560e88d2937b7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1564">
+               </Location>
+               <Location
+                  uuid = "E7F30AF5-65B8-4B64-955A-C85AD5117E17 - e8560e88d2937b7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.DislikeSelectionView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/ViewinTab/Profile/SubView/DislikeFood/DislikeSelectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C18B2F54-9B55-47CA-83D0-D412E419FA72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "sortRecipe(recipes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C99BF75-48A2-49E0-80D8-2C6A0202FB47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "sortRecipe(recipes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5B67EE7-287B-4802-AF3B-E98A4DD41990"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "sortRecipe(recipes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A9D0636-945D-4863-88DA-189F1B59EF27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/ViewinTab/Home/Discover/DiscoverViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "sortRecipe(recipes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,17 @@
+<svg width="180" height="158" viewBox="0 0 180 158" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M86.7576 146.8C124.786 146.8 155.615 116.311 155.615 78.7001C155.615 41.0895 124.786 10.6001 86.7576 10.6001C48.7288 10.6001 17.9004 41.0895 17.9004 78.7001C17.9004 116.311 48.7288 146.8 86.7576 146.8Z" fill="url(#paint0_linear_6687_1353)"/>
+<rect x="54.9775" y="45.9326" width="118.534" height="42.2601" rx="14.4" fill="#FA4A0C"/>
+<rect x="103.906" y="60.481" width="39.9707" height="5.54231" rx="2.77115" fill="white"/>
+<rect x="65.3145" y="68.7944" width="78.7646" height="5.54231" rx="2.77115" fill="white"/>
+<ellipse cx="158.35" cy="67.4088" rx="6.89151" ry="6.92789" fill="#F5F7FB"/>
+<rect x="5.39844" y="81.2646" width="118.534" height="42.2601" rx="14.4" fill="#DADADA"/>
+<rect x="35.0312" y="95.813" width="39.9707" height="5.54231" rx="2.77115" fill="#FF4040"/>
+<rect x="35.0312" y="104.126" width="78.7646" height="5.54231" rx="2.77116" fill="white"/>
+<ellipse cx="22.6269" cy="102.741" rx="6.89151" ry="6.92789" fill="#FF4040"/>
+<defs>
+<linearGradient id="paint0_linear_6687_1353" x1="86.2268" y1="-11.5749" x2="87.6065" y2="227.582" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2F2F2"/>
+<stop offset="1" stop-color="#EFEFEF"/>
+</linearGradient>
+</defs>
+</svg>

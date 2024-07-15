@@ -1,0 +1,1029 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		006944C9F8F07665EB248B2E9D58D643 /* CropBoxFreeAspectFrameUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6BB5B5D5962BB80C41B8A26004CEF1 /* CropBoxFreeAspectFrameUpdater.swift */; };
+		09139F424CD4DE32EACE1BE332AAE704 /* SlideRulerPositionHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64B804DDCA0F18406F738CD8048DDAF /* SlideRulerPositionHelper.swift */; };
+		0981A498E955228C858A7D9E3FFE13F2 /* RotationDialViewModelProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0326DD4D417BC9D10CCF0E42FF5980 /* RotationDialViewModelProtocol.swift */; };
+		0B26AFAA9AF756E8075F66B746C53095 /* RatioSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 652BC45EB1460A6C36FFF4AFD7520CAF /* RatioSelector.swift */; };
+		1345FC874FB0E3215099FA8864421DFA /* Mantis.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2C53BC18CEF22CF5F5A5952E63DEFDD /* Mantis.swift */; };
+		18730E264BECE6BDF8EBBAE1D08EEB9F /* RotationDialConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47973CE40140B2B61B51968BAE92CDC2 /* RotationDialConfig.swift */; };
+		18905379E73C00BBD6EF33FFBCF8DD6C /* SlideDialViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F7DF589581BBF7F2D63C872146FC87 /* SlideDialViewModel.swift */; };
+		1F0A968C9F7AC307F97696BAA300E393 /* CropMaskProtocal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D676413CCFE2BC3EAA96440787B38C /* CropMaskProtocal.swift */; };
+		20655933BB5A6DE3B0170B319F11CD97 /* RotationDialViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14319BEEA48959EFF5C680351B423743 /* RotationDialViewModel.swift */; };
+		22006F53353FE2BEB15C46E965ECCB54 /* CropView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0037210FE11471D1292F4A9768FBEE /* CropView.swift */; };
+		274FCF9C83796454A122D4F9031A56CA /* SlideDialConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = F20F2ED177E1B1A12019FA84F3216CC9 /* SlideDialConfig.swift */; };
+		2756E142BD49BF8928FD007263F04ED9 /* CropMaskViewManagerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F43EEA708BA321DC88A045BE9C360247 /* CropMaskViewManagerProtocol.swift */; };
+		2C483226F8978572432B4699BC4E3C55 /* ToolbarButtonOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FE58FA2CC7910612B780FBC27CA94A /* ToolbarButtonOptions.swift */; };
+		2E58A0E4C12F5953ACD912211024BE77 /* GeometryHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FEC72F0D335DE21A1809D1139C93841 /* GeometryHelper.swift */; };
+		3134D64DCBD22D6FE7E932FA1EBA9194 /* CropViewStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9EDAA50C81224459063D8E72B94BD11 /* CropViewStatus.swift */; };
+		3BF66B952CE77A6FDE275337587FFA98 /* Mantis-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1265E4953FBA142C35FDEF9ABB379954 /* Mantis-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3D7904E7DB478FCC0F2EE54AC52609F4 /* CropScrollViewProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DADB041C56B0054519F8A0907337EC9 /* CropScrollViewProtocol.swift */; };
+		3DDAA10F65E484FF3502167D11585BA8 /* LocalizedHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F868B8C82F09A52365D480CD65965E /* LocalizedHelper.swift */; };
+		41E5159922633B899D0E9F36E891EA89 /* CropViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9A959A3A293DBD55CB351FEBDA5ED2 /* CropViewModel.swift */; };
+		4931E215054F253A1948EECA8A6383C5 /* CropViewModelProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EEB0260BA26927C09BFD27FD2935D55 /* CropViewModelProtocol.swift */; };
+		49D8EA36E85A083A5DB759FEECB076AA /* RotationDial.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0830D672CF131592DF0D71C1BDD666D /* RotationDial.swift */; };
+		4F0169D0DA637235FA94835C536E3525 /* CropData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2302C9B170A7B7C6058E03A009C40481 /* CropData.swift */; };
+		4FAF910692411151751493DF76E477AB /* CGAffineTransformExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2301E0B0E677AC8B37FB954CD816E2C9 /* CGAffineTransformExtensions.swift */; };
+		51E2E97C38F8D707C735C3B3AE129649 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		561941BD2F0858B43A3202E1FC13990B /* ImageContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29EE51B612A82601FFFAF18E07F2F0BF /* ImageContainer.swift */; };
+		624F874C2779DF89E18609D620109986 /* RatioItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27198562504D563CA77590D8E52C397 /* RatioItemView.swift */; };
+		633EF1CAC8A0520F3B8862EE90E4B706 /* CropView+UIScrollViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AA0AAA362037F2B33B789A98BB2789 /* CropView+UIScrollViewDelegate.swift */; };
+		6390947636C0B809AAC2EBFC5D4331D1 /* ToolBarButtonImageBuilder+DrawImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CC20ABCF047249BAC067EB6549CB61A /* ToolBarButtonImageBuilder+DrawImage.swift */; };
+		661B70C540B68E9F05678E4A2AF707B6 /* Definition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 795B2B4C8BEC5915C8CCE1D56B02939C /* Definition.swift */; };
+		6A0B05682B728A3BB503E97D4AF92A6A /* CropViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C42C549AF0BB2965EA9817540988514A /* CropViewController.swift */; };
+		6F31A642E34998A35446370FE94392F9 /* CropBoxLockedAspectFrameUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3283CE3A53E1CFFEAEE087401B3331F8 /* CropBoxLockedAspectFrameUpdater.swift */; };
+		71C3F751699453C96803C7BB567879EE /* MantisLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = E2215B879522BE1063D4901049EB8B8C /* MantisLocalizable.strings */; };
+		73AC2F3F4FD1539A121DE06A7AE918AE /* Mantis.h in Headers */ = {isa = PBXBuildFile; fileRef = 8911F65E1FBB03855A14AE94DA09FCC8 /* Mantis.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		75EDC125D74BA659E6E016BC3419FAF5 /* CropDimmingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5400BEC4F0E6CEBABFDDEBC40B24B06 /* CropDimmingView.swift */; };
+		838A91C2233ED4C5E244642B59596848 /* CropViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0236B1F481B4ABF4CA0C994DD802F0 /* CropViewControllerDelegate.swift */; };
+		83D1C303E1445EED117E8DD8C5C774A6 /* RotationCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B79053E149EDCF8E9C604937B429BCC /* RotationCalculator.swift */; };
+		8503FD586532BB4319FF7DFD7E67A9F4 /* CropAuxiliaryIndicatorView+Accessibility.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE086E6C29D6AAD1DE9F58729B0A38CE /* CropAuxiliaryIndicatorView+Accessibility.swift */; };
+		8A84718E4BFA9D3B2B372EF4409B9BCF /* Orientation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F844F4FBDD72FD4E08C327F25C3C82 /* Orientation.swift */; };
+		8B7C545338D8DE62B4DC1195113BCEE3 /* Pods-FitMe-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5AED45DBFA1B03A7DB09E642148C9274 /* Pods-FitMe-dummy.m */; };
+		8F6F16249AC92AC0BE843F8AB02198D9 /* RatioPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC80F14B29BE93C0D0202BD6A371A0F2 /* RatioPresenter.swift */; };
+		98F05C845833773F1B7612EB3941BE0A /* Pods-FitMe-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8AF2268F19D910300BFA98E9BB9B9F8D /* Pods-FitMe-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		99FC198B7E438B6ED56CC23691E31CCB /* CropViewConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB3BBC5AE075C93CE1FAC0E957D9542A /* CropViewConfig.swift */; };
+		9B9E4EABA851016868AD6D9A55452F99 /* CropAuxiliaryIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45EB623BFC6F6D096D71DDB72BEE0CE /* CropAuxiliaryIndicatorView.swift */; };
+		9E256C3F1AAF3E33D09C20FF30BB0A98 /* CropMaskViewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58D40E3DEE9B3D40FBCCBE2773CF1B0D /* CropMaskViewManager.swift */; };
+		9E7FF096B11137CB2A855C08427A54B1 /* SlideRuler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BDE007757D7F8B8856266F0C25C101D /* SlideRuler.swift */; };
+		A050C49E9C04E71479456EB614A117D9 /* CropToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2BFD0C2E08AC945BD47FAF300B14AFA /* CropToolbar.swift */; };
+		A2EF00653B92E580AA29F13D2D5B365E /* Global.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8DBF198A5F90C58357AB31C55082BDC /* Global.swift */; };
+		A76BE9DB14F42B751DC88C95FE0BCF72 /* CropAuxiliaryIndicatorViewProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 998E7429E5CCEB69DF072B252796761A /* CropAuxiliaryIndicatorViewProtocol.swift */; };
+		AB482FE18A39461B94B6F1EF7ACF5B1D /* RotationDialPlate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B806A61A18EB1D52F4283B57C04CD2 /* RotationDialPlate.swift */; };
+		AD318E4D5449FC13AF116CFA8DE84011 /* RotationDial+Touches.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91AB74F8E98B5AFFA464A97B5BCE7DD /* RotationDial+Touches.swift */; };
+		B330D9317CE5E5F23DE001BBCD47286E /* ToolBarButtonImageBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCBDF3EACE0990A0A2D3D0CE5447A595 /* ToolBarButtonImageBuilder.swift */; };
+		B5D5E6B09B08C93D2B5A0AC0C5CBCEA9 /* CropWorkbenchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5201583321DBE768BE3114C34D7144C3 /* CropWorkbenchView.swift */; };
+		BA781A85036884339ECF0591ADE88D0D /* Mantis-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DF452E7FF364FA9BD2379D461A0240D /* Mantis-dummy.m */; };
+		C15F1E83D61AD42883049F9C705B8835 /* CropToolbarConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A173F2374E8D3870202BDA236160D0 /* CropToolbarConfig.swift */; };
+		C3FADE6352D9C2E4E3023FA4CB1C9D9B /* CoreGraphicsExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A49C88A49737C9E1CE466A3DFC560286 /* CoreGraphicsExtensions.swift */; };
+		C80D73D49DE71965199B2FB995B01CAC /* CGImageExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7219F0AE97F8FD883B19BC79C2A1AFDC /* CGImageExtensions.swift */; };
+		D0323E9095027374C9AB646D95F135A2 /* SlideDial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 890A3A86C2CABE242BF80A3ED40331C4 /* SlideDial.swift */; };
+		D3AF286E0D0805402518A73FC740C905 /* FixedRatioManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA4523BF54D12F536641E464EDC7602 /* FixedRatioManager.swift */; };
+		DA7DF5605E4CA6172B7C2A2A82F52EBD /* Angle.swift in Sources */ = {isa = PBXBuildFile; fileRef = A39D51A388988A0B99DCA8A89E63E501 /* Angle.swift */; };
+		DC9A9F3EBB96214D2CD795AD82B8B39E /* UIImageExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA7F74C394590EF9807F9DA6CBB8B3C /* UIImageExtensions.swift */; };
+		DF50ABC4963A4AC06ACF50D0CCB58002 /* CropView+Touches.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDEA581F72E12C07BDC878FFB8E608CB /* CropView+Touches.swift */; };
+		E10110A979C92A36F1360C11006EEE36 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		E6A4004536B8C6049B6B14545DB348E7 /* Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4188CD72D3E5F8CE22D6EC447F19DD6A /* Enum.swift */; };
+		E79F4917E1C22C3D7283F05B1792C8E5 /* CropVisualEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971E22CF7E4175139834F7B5AD4B3255 /* CropVisualEffectView.swift */; };
+		EB916D61C1B62F04F1D7945685508B30 /* ImageContainerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB3F5C6998471E03860700EBCB63CBF /* ImageContainerProtocol.swift */; };
+		EF904E6335C96BA20798312E091C20B7 /* ImageAutoAdjustHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4E948AE8348747409A8B094F77DBC5 /* ImageAutoAdjustHelper.swift */; };
+		F22A4D956CDA21D24D130D5C01983891 /* UIViewExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D67F47F0E92D699FBF65449F3BC7C32 /* UIViewExtensions.swift */; };
+		F4685F94B9A8C4908D68C241C3AFD67D /* RatioOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F144779E2CBFE87046BA709894987598 /* RatioOptions.swift */; };
+		F5BDDA3480C4282D597EFAE0D52C519F /* CropToolbarProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9989F2A17C7C39E91DBAAD60CC9DC61 /* CropToolbarProtocol.swift */; };
+		F8FDE8D1B9DC98D38B3C762AC5A8F0B8 /* Mantis-MantisResources in Resources */ = {isa = PBXBuildFile; fileRef = E50395ED50F3D5D97E3957A2ED43921F /* Mantis-MantisResources */; };
+		FD6729DDF2D9609296B429348CDA8E00 /* CropViewProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = C27FA54A64823EA012C38ED3C150BBEC /* CropViewProtocol.swift */; };
+		FEE3DDBB5FC22F612939680D88F82E01 /* RotationDialProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 116B8F25174B29404AAFCA2C65E77CED /* RotationDialProtocol.swift */; };
+		FF5513C330EC00982BCE2DA0900E7B0C /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = D21EBB76B546F3A820AF958015814D0F /* Config.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B4992F0FDADCF2ABFA05E7CB0A64B441 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2FE76CFB815F0D65B5A0962A62EB8E05;
+			remoteInfo = "Mantis-MantisResources";
+		};
+		D01813852590FD6F8D6CE84F54DAE6D6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B765AE885D71986CD6D5EC0726D8ED31;
+			remoteInfo = Mantis;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		013BAE3D459CA9CF4DE93B7C9907AB44 /* Mantis.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Mantis.release.xcconfig; sourceTree = "<group>"; };
+		04A2B53BA3C18578145BF0C3B89582C2 /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = "zh-Hant.lproj/MantisLocalizable.strings"; sourceTree = "<group>"; };
+		05DF5760FCD7A36626A5C3F6DF3B6238 /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = de.lproj/MantisLocalizable.strings; sourceTree = "<group>"; };
+		07B03126B8084025FAD5EC0DFC65226B /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = "ko-KR.lproj/MantisLocalizable.strings"; sourceTree = "<group>"; };
+		09050EE4CDD40B27864B589AFC59F357 /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = ar.lproj/MantisLocalizable.strings; sourceTree = "<group>"; };
+		0F70FC08106562AE46F156C423189CA9 /* Pods-FitMe-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FitMe-frameworks.sh"; sourceTree = "<group>"; };
+		116B8F25174B29404AAFCA2C65E77CED /* RotationDialProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RotationDialProtocol.swift; path = Sources/Mantis/Protocols/RotationDialProtocol.swift; sourceTree = "<group>"; };
+		1265E4953FBA142C35FDEF9ABB379954 /* Mantis-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Mantis-umbrella.h"; sourceTree = "<group>"; };
+		13F7DF589581BBF7F2D63C872146FC87 /* SlideDialViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SlideDialViewModel.swift; path = Sources/Mantis/RotationDial/SlideDial/SlideDialViewModel.swift; sourceTree = "<group>"; };
+		14319BEEA48959EFF5C680351B423743 /* RotationDialViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RotationDialViewModel.swift; path = Sources/Mantis/RotationDial/RotationDial/RotationDialViewModel.swift; sourceTree = "<group>"; };
+		1BDE007757D7F8B8856266F0C25C101D /* SlideRuler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SlideRuler.swift; path = Sources/Mantis/RotationDial/SlideDial/SlideRuler.swift; sourceTree = "<group>"; };
+		1FBC582A1C98D7EC5C61840FE7E56CE8 /* Pods-FitMe-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FitMe-Info.plist"; sourceTree = "<group>"; };
+		2127ED52AD5CAF0A03A6519587B020C8 /* Mantis.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Mantis.debug.xcconfig; sourceTree = "<group>"; };
+		2301E0B0E677AC8B37FB954CD816E2C9 /* CGAffineTransformExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CGAffineTransformExtensions.swift; path = Sources/Mantis/Extensions/CGAffineTransformExtensions.swift; sourceTree = "<group>"; };
+		2302C9B170A7B7C6058E03A009C40481 /* CropData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropData.swift; path = Sources/Mantis/CropData.swift; sourceTree = "<group>"; };
+		23D676413CCFE2BC3EAA96440787B38C /* CropMaskProtocal.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropMaskProtocal.swift; path = Sources/Mantis/MaskBackground/CropMaskProtocal.swift; sourceTree = "<group>"; };
+		289C00D5D9FB33986CC873BF07A1AF5C /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = "zh-Hans.lproj/MantisLocalizable.strings"; sourceTree = "<group>"; };
+		29EE51B612A82601FFFAF18E07F2F0BF /* ImageContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageContainer.swift; path = Sources/Mantis/CropView/ImageContainer.swift; sourceTree = "<group>"; };
+		316D22F8B19400DBC5073973480D1521 /* Mantis */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Mantis; path = Mantis.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3283CE3A53E1CFFEAEE087401B3331F8 /* CropBoxLockedAspectFrameUpdater.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropBoxLockedAspectFrameUpdater.swift; path = Sources/Mantis/CropView/CropBoxLockedAspectFrameUpdater.swift; sourceTree = "<group>"; };
+		32F868B8C82F09A52365D480CD65965E /* LocalizedHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LocalizedHelper.swift; path = Sources/Mantis/Helpers/LocalizedHelper.swift; sourceTree = "<group>"; };
+		38B6D1B580E1E85533D96B0F3CD69AA7 /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = en.lproj/MantisLocalizable.strings; sourceTree = "<group>"; };
+		3B79053E149EDCF8E9C604937B429BCC /* RotationCalculator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RotationCalculator.swift; path = Sources/Mantis/RotationDial/RotationDial/RotationCalculator.swift; sourceTree = "<group>"; };
+		3D67F47F0E92D699FBF65449F3BC7C32 /* UIViewExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIViewExtensions.swift; path = Sources/Mantis/Extensions/UIViewExtensions.swift; sourceTree = "<group>"; };
+		4188CD72D3E5F8CE22D6EC447F19DD6A /* Enum.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Enum.swift; path = Sources/Mantis/Enum.swift; sourceTree = "<group>"; };
+		47973CE40140B2B61B51968BAE92CDC2 /* RotationDialConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RotationDialConfig.swift; path = Sources/Mantis/RotationDial/RotationDial/RotationDialConfig.swift; sourceTree = "<group>"; };
+		4D9A959A3A293DBD55CB351FEBDA5ED2 /* CropViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropViewModel.swift; path = Sources/Mantis/CropView/CropViewModel.swift; sourceTree = "<group>"; };
+		4DF452E7FF364FA9BD2379D461A0240D /* Mantis-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Mantis-dummy.m"; sourceTree = "<group>"; };
+		5201583321DBE768BE3114C34D7144C3 /* CropWorkbenchView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropWorkbenchView.swift; path = Sources/Mantis/CropView/CropWorkbenchView.swift; sourceTree = "<group>"; };
+		558942DD858C18763F7B789571A12F57 /* Pods-FitMe-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FitMe-acknowledgements.plist"; sourceTree = "<group>"; };
+		56AA0AAA362037F2B33B789A98BB2789 /* CropView+UIScrollViewDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CropView+UIScrollViewDelegate.swift"; path = "Sources/Mantis/CropView/CropView+UIScrollViewDelegate.swift"; sourceTree = "<group>"; };
+		58D40E3DEE9B3D40FBCCBE2773CF1B0D /* CropMaskViewManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropMaskViewManager.swift; path = Sources/Mantis/CropView/CropMaskViewManager.swift; sourceTree = "<group>"; };
+		5AED45DBFA1B03A7DB09E642148C9274 /* Pods-FitMe-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FitMe-dummy.m"; sourceTree = "<group>"; };
+		5E0326DD4D417BC9D10CCF0E42FF5980 /* RotationDialViewModelProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RotationDialViewModelProtocol.swift; path = Sources/Mantis/Protocols/RotationDialViewModelProtocol.swift; sourceTree = "<group>"; };
+		5EA7F74C394590EF9807F9DA6CBB8B3C /* UIImageExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIImageExtensions.swift; path = Sources/Mantis/Extensions/UIImageExtensions.swift; sourceTree = "<group>"; };
+		652BC45EB1460A6C36FFF4AFD7520CAF /* RatioSelector.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RatioSelector.swift; path = Sources/Mantis/CropViewController/RatioSelector.swift; sourceTree = "<group>"; };
+		6AB3F5C6998471E03860700EBCB63CBF /* ImageContainerProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageContainerProtocol.swift; path = Sources/Mantis/Protocols/ImageContainerProtocol.swift; sourceTree = "<group>"; };
+		6CC182869DB84F442F7C6030D8EF5B2E /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = ru.lproj/MantisLocalizable.strings; sourceTree = "<group>"; };
+		6DD320514F0F4EA69F289723CCF26B79 /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = "pt-PT.lproj/MantisLocalizable.strings"; sourceTree = "<group>"; };
+		6EEB0260BA26927C09BFD27FD2935D55 /* CropViewModelProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropViewModelProtocol.swift; path = Sources/Mantis/Protocols/CropViewModelProtocol.swift; sourceTree = "<group>"; };
+		6FC5AD362B458A67741980BFAAFFFE38 /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = ja.lproj/MantisLocalizable.strings; sourceTree = "<group>"; };
+		7219F0AE97F8FD883B19BC79C2A1AFDC /* CGImageExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CGImageExtensions.swift; path = Sources/Mantis/Extensions/CGImageExtensions.swift; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		75D6F5C43FC2B544E0628235EB87B39F /* ResourceBundle-MantisResources-Mantis-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-MantisResources-Mantis-Info.plist"; sourceTree = "<group>"; };
+		76FC51CD4CE6AC7666A4EA9024E03AE0 /* Mantis-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Mantis-Info.plist"; sourceTree = "<group>"; };
+		795B2B4C8BEC5915C8CCE1D56B02939C /* Definition.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Definition.swift; path = Sources/Mantis/Definition.swift; sourceTree = "<group>"; };
+		7BA4523BF54D12F536641E464EDC7602 /* FixedRatioManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FixedRatioManager.swift; path = Sources/Mantis/CropViewController/FixedRatioManager.swift; sourceTree = "<group>"; };
+		7FEC72F0D335DE21A1809D1139C93841 /* GeometryHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GeometryHelper.swift; path = Sources/Mantis/Helpers/GeometryHelper.swift; sourceTree = "<group>"; };
+		890A3A86C2CABE242BF80A3ED40331C4 /* SlideDial.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SlideDial.swift; path = Sources/Mantis/RotationDial/SlideDial/SlideDial.swift; sourceTree = "<group>"; };
+		8911F65E1FBB03855A14AE94DA09FCC8 /* Mantis.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Mantis.h; path = Sources/Mantis/Mantis.h; sourceTree = "<group>"; };
+		8AF2268F19D910300BFA98E9BB9B9F8D /* Pods-FitMe-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FitMe-umbrella.h"; sourceTree = "<group>"; };
+		8B6BB5B5D5962BB80C41B8A26004CEF1 /* CropBoxFreeAspectFrameUpdater.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropBoxFreeAspectFrameUpdater.swift; path = Sources/Mantis/CropView/CropBoxFreeAspectFrameUpdater.swift; sourceTree = "<group>"; };
+		8CC20ABCF047249BAC067EB6549CB61A /* ToolBarButtonImageBuilder+DrawImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "ToolBarButtonImageBuilder+DrawImage.swift"; path = "Sources/Mantis/CropViewController/ToolBarButtonImageBuilder+DrawImage.swift"; sourceTree = "<group>"; };
+		8DADB041C56B0054519F8A0907337EC9 /* CropScrollViewProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropScrollViewProtocol.swift; path = Sources/Mantis/Protocols/CropScrollViewProtocol.swift; sourceTree = "<group>"; };
+		90B8E61BF63964D9B16E55A004086B19 /* Pods-FitMe-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FitMe-acknowledgements.markdown"; sourceTree = "<group>"; };
+		916A83C4CADFBB042F5C3DC2218FEC6B /* Pods-FitMe */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-FitMe"; path = Pods_FitMe.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9200E099215186EFFD86617BCD3CB27F /* Pods-FitMe.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FitMe.release.xcconfig"; sourceTree = "<group>"; };
+		971E22CF7E4175139834F7B5AD4B3255 /* CropVisualEffectView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropVisualEffectView.swift; path = Sources/Mantis/MaskBackground/CropVisualEffectView.swift; sourceTree = "<group>"; };
+		998E7429E5CCEB69DF072B252796761A /* CropAuxiliaryIndicatorViewProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropAuxiliaryIndicatorViewProtocol.swift; path = Sources/Mantis/Protocols/CropAuxiliaryIndicatorViewProtocol.swift; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9EA393563B8C150F6069E0C001BEFEAA /* Pods-FitMe.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FitMe.debug.xcconfig"; sourceTree = "<group>"; };
+		A39D51A388988A0B99DCA8A89E63E501 /* Angle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Angle.swift; path = Sources/Mantis/Angle.swift; sourceTree = "<group>"; };
+		A49C88A49737C9E1CE466A3DFC560286 /* CoreGraphicsExtensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CoreGraphicsExtensions.swift; path = Sources/Mantis/Extensions/CoreGraphicsExtensions.swift; sourceTree = "<group>"; };
+		AC0236B1F481B4ABF4CA0C994DD802F0 /* CropViewControllerDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropViewControllerDelegate.swift; path = Sources/Mantis/Protocols/CropViewControllerDelegate.swift; sourceTree = "<group>"; };
+		B961C2221A16B8FBFFC6376A65509EAA /* Mantis.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Mantis.modulemap; sourceTree = "<group>"; };
+		BCBDF3EACE0990A0A2D3D0CE5447A595 /* ToolBarButtonImageBuilder.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToolBarButtonImageBuilder.swift; path = Sources/Mantis/CropViewController/ToolBarButtonImageBuilder.swift; sourceTree = "<group>"; };
+		C25CEF0FDE3AF483CDCE8D6C5AD396C7 /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = ko.lproj/MantisLocalizable.strings; sourceTree = "<group>"; };
+		C275DC33F4ACF02339399AD89FF7EF49 /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = it.lproj/MantisLocalizable.strings; sourceTree = "<group>"; };
+		C27FA54A64823EA012C38ED3C150BBEC /* CropViewProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropViewProtocol.swift; path = Sources/Mantis/Protocols/CropViewProtocol.swift; sourceTree = "<group>"; };
+		C2BFD0C2E08AC945BD47FAF300B14AFA /* CropToolbar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropToolbar.swift; path = Sources/Mantis/CropViewController/CropToolbar.swift; sourceTree = "<group>"; };
+		C42C549AF0BB2965EA9817540988514A /* CropViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropViewController.swift; path = Sources/Mantis/CropViewController/CropViewController.swift; sourceTree = "<group>"; };
+		C6FE58FA2CC7910612B780FBC27CA94A /* ToolbarButtonOptions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToolbarButtonOptions.swift; path = Sources/Mantis/ToolbarButtonOptions.swift; sourceTree = "<group>"; };
+		C8DBF198A5F90C58357AB31C55082BDC /* Global.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Global.swift; path = Sources/Mantis/Global.swift; sourceTree = "<group>"; };
+		CDEA581F72E12C07BDC878FFB8E608CB /* CropView+Touches.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CropView+Touches.swift"; path = "Sources/Mantis/CropView/CropView+Touches.swift"; sourceTree = "<group>"; };
+		D21EBB76B546F3A820AF958015814D0F /* Config.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Config.swift; path = Sources/Mantis/Config.swift; sourceTree = "<group>"; };
+		D27198562504D563CA77590D8E52C397 /* RatioItemView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RatioItemView.swift; path = Sources/Mantis/CropViewController/RatioItemView.swift; sourceTree = "<group>"; };
+		D2B806A61A18EB1D52F4283B57C04CD2 /* RotationDialPlate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RotationDialPlate.swift; path = Sources/Mantis/RotationDial/RotationDial/RotationDialPlate.swift; sourceTree = "<group>"; };
+		D9989F2A17C7C39E91DBAAD60CC9DC61 /* CropToolbarProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropToolbarProtocol.swift; path = Sources/Mantis/Protocols/CropToolbarProtocol.swift; sourceTree = "<group>"; };
+		DB3BBC5AE075C93CE1FAC0E957D9542A /* CropViewConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropViewConfig.swift; path = Sources/Mantis/CropViewConfig.swift; sourceTree = "<group>"; };
+		DB4A3F8BD4BEC9F925444916F9F9F8C2 /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = nl.lproj/MantisLocalizable.strings; sourceTree = "<group>"; };
+		DC7F68A55BC0492EFF6F2ACBBAA0825D /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = fr.lproj/MantisLocalizable.strings; sourceTree = "<group>"; };
+		E0830D672CF131592DF0D71C1BDD666D /* RotationDial.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RotationDial.swift; path = Sources/Mantis/RotationDial/RotationDial/RotationDial.swift; sourceTree = "<group>"; };
+		E2C53BC18CEF22CF5F5A5952E63DEFDD /* Mantis.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Mantis.swift; path = Sources/Mantis/Mantis.swift; sourceTree = "<group>"; };
+		E45EB623BFC6F6D096D71DDB72BEE0CE /* CropAuxiliaryIndicatorView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropAuxiliaryIndicatorView.swift; path = Sources/Mantis/CropView/CropAuxiliaryIndicatorView.swift; sourceTree = "<group>"; };
+		E50395ED50F3D5D97E3957A2ED43921F /* Mantis-MantisResources */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Mantis-MantisResources"; path = MantisResources.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		E5400BEC4F0E6CEBABFDDEBC40B24B06 /* CropDimmingView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropDimmingView.swift; path = Sources/Mantis/MaskBackground/CropDimmingView.swift; sourceTree = "<group>"; };
+		E5F844F4FBDD72FD4E08C327F25C3C82 /* Orientation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Orientation.swift; path = Sources/Mantis/Helpers/Orientation.swift; sourceTree = "<group>"; };
+		EA4E948AE8348747409A8B094F77DBC5 /* ImageAutoAdjustHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageAutoAdjustHelper.swift; path = Sources/Mantis/Helpers/ImageAutoAdjustHelper.swift; sourceTree = "<group>"; };
+		EC0037210FE11471D1292F4A9768FBEE /* CropView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropView.swift; path = Sources/Mantis/CropView/CropView.swift; sourceTree = "<group>"; };
+		EC80F14B29BE93C0D0202BD6A371A0F2 /* RatioPresenter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RatioPresenter.swift; path = Sources/Mantis/CropViewController/RatioPresenter.swift; sourceTree = "<group>"; };
+		EE086E6C29D6AAD1DE9F58729B0A38CE /* CropAuxiliaryIndicatorView+Accessibility.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CropAuxiliaryIndicatorView+Accessibility.swift"; path = "Sources/Mantis/CropView/CropAuxiliaryIndicatorView+Accessibility.swift"; sourceTree = "<group>"; };
+		F0B8F17EC05C9EC9623F8C93F40DF941 /* Pods-FitMe.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FitMe.modulemap"; sourceTree = "<group>"; };
+		F144779E2CBFE87046BA709894987598 /* RatioOptions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RatioOptions.swift; path = Sources/Mantis/RatioOptions.swift; sourceTree = "<group>"; };
+		F1DDB0A04BE6313B2C9660E47F3AB873 /* MantisLocalizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = MantisLocalizable.strings; path = es.lproj/MantisLocalizable.strings; sourceTree = "<group>"; };
+		F20F2ED177E1B1A12019FA84F3216CC9 /* SlideDialConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SlideDialConfig.swift; path = Sources/Mantis/RotationDial/SlideDial/SlideDialConfig.swift; sourceTree = "<group>"; };
+		F43EEA708BA321DC88A045BE9C360247 /* CropMaskViewManagerProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropMaskViewManagerProtocol.swift; path = Sources/Mantis/Protocols/CropMaskViewManagerProtocol.swift; sourceTree = "<group>"; };
+		F64B804DDCA0F18406F738CD8048DDAF /* SlideRulerPositionHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SlideRulerPositionHelper.swift; path = Sources/Mantis/RotationDial/SlideDial/SlideRulerPositionHelper.swift; sourceTree = "<group>"; };
+		F7287CCF16C0E572065BF5A165F5DBF2 /* Mantis-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Mantis-prefix.pch"; sourceTree = "<group>"; };
+		F8A173F2374E8D3870202BDA236160D0 /* CropToolbarConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropToolbarConfig.swift; path = Sources/Mantis/CropToolbarConfig.swift; sourceTree = "<group>"; };
+		F91AB74F8E98B5AFFA464A97B5BCE7DD /* RotationDial+Touches.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "RotationDial+Touches.swift"; path = "Sources/Mantis/RotationDial/RotationDial/RotationDial+Touches.swift"; sourceTree = "<group>"; };
+		F9EDAA50C81224459063D8E72B94BD11 /* CropViewStatus.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CropViewStatus.swift; path = Sources/Mantis/CropView/CropViewStatus.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		09CA7107A02E3C34236E90A1874046E1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EAAFBC033EF5B0D450E371324B27F914 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51E2E97C38F8D707C735C3B3AE129649 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F89B22AA9004F283DAF5735316E80A16 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E10110A979C92A36F1360C11006EEE36 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2A0962C8A541733690BC49754D34AACC /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				FE73272F8F994ADFB5A7D3E5870C904F /* Pods-FitMe */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		34C5C8EE06B42C23C53C3391E2C14505 /* Mantis */ = {
+			isa = PBXGroup;
+			children = (
+				A39D51A388988A0B99DCA8A89E63E501 /* Angle.swift */,
+				2301E0B0E677AC8B37FB954CD816E2C9 /* CGAffineTransformExtensions.swift */,
+				7219F0AE97F8FD883B19BC79C2A1AFDC /* CGImageExtensions.swift */,
+				D21EBB76B546F3A820AF958015814D0F /* Config.swift */,
+				A49C88A49737C9E1CE466A3DFC560286 /* CoreGraphicsExtensions.swift */,
+				E45EB623BFC6F6D096D71DDB72BEE0CE /* CropAuxiliaryIndicatorView.swift */,
+				EE086E6C29D6AAD1DE9F58729B0A38CE /* CropAuxiliaryIndicatorView+Accessibility.swift */,
+				998E7429E5CCEB69DF072B252796761A /* CropAuxiliaryIndicatorViewProtocol.swift */,
+				8B6BB5B5D5962BB80C41B8A26004CEF1 /* CropBoxFreeAspectFrameUpdater.swift */,
+				3283CE3A53E1CFFEAEE087401B3331F8 /* CropBoxLockedAspectFrameUpdater.swift */,
+				2302C9B170A7B7C6058E03A009C40481 /* CropData.swift */,
+				E5400BEC4F0E6CEBABFDDEBC40B24B06 /* CropDimmingView.swift */,
+				23D676413CCFE2BC3EAA96440787B38C /* CropMaskProtocal.swift */,
+				58D40E3DEE9B3D40FBCCBE2773CF1B0D /* CropMaskViewManager.swift */,
+				F43EEA708BA321DC88A045BE9C360247 /* CropMaskViewManagerProtocol.swift */,
+				8DADB041C56B0054519F8A0907337EC9 /* CropScrollViewProtocol.swift */,
+				C2BFD0C2E08AC945BD47FAF300B14AFA /* CropToolbar.swift */,
+				F8A173F2374E8D3870202BDA236160D0 /* CropToolbarConfig.swift */,
+				D9989F2A17C7C39E91DBAAD60CC9DC61 /* CropToolbarProtocol.swift */,
+				EC0037210FE11471D1292F4A9768FBEE /* CropView.swift */,
+				CDEA581F72E12C07BDC878FFB8E608CB /* CropView+Touches.swift */,
+				56AA0AAA362037F2B33B789A98BB2789 /* CropView+UIScrollViewDelegate.swift */,
+				DB3BBC5AE075C93CE1FAC0E957D9542A /* CropViewConfig.swift */,
+				C42C549AF0BB2965EA9817540988514A /* CropViewController.swift */,
+				AC0236B1F481B4ABF4CA0C994DD802F0 /* CropViewControllerDelegate.swift */,
+				4D9A959A3A293DBD55CB351FEBDA5ED2 /* CropViewModel.swift */,
+				6EEB0260BA26927C09BFD27FD2935D55 /* CropViewModelProtocol.swift */,
+				C27FA54A64823EA012C38ED3C150BBEC /* CropViewProtocol.swift */,
+				F9EDAA50C81224459063D8E72B94BD11 /* CropViewStatus.swift */,
+				971E22CF7E4175139834F7B5AD4B3255 /* CropVisualEffectView.swift */,
+				5201583321DBE768BE3114C34D7144C3 /* CropWorkbenchView.swift */,
+				795B2B4C8BEC5915C8CCE1D56B02939C /* Definition.swift */,
+				4188CD72D3E5F8CE22D6EC447F19DD6A /* Enum.swift */,
+				7BA4523BF54D12F536641E464EDC7602 /* FixedRatioManager.swift */,
+				7FEC72F0D335DE21A1809D1139C93841 /* GeometryHelper.swift */,
+				C8DBF198A5F90C58357AB31C55082BDC /* Global.swift */,
+				EA4E948AE8348747409A8B094F77DBC5 /* ImageAutoAdjustHelper.swift */,
+				29EE51B612A82601FFFAF18E07F2F0BF /* ImageContainer.swift */,
+				6AB3F5C6998471E03860700EBCB63CBF /* ImageContainerProtocol.swift */,
+				32F868B8C82F09A52365D480CD65965E /* LocalizedHelper.swift */,
+				8911F65E1FBB03855A14AE94DA09FCC8 /* Mantis.h */,
+				E2C53BC18CEF22CF5F5A5952E63DEFDD /* Mantis.swift */,
+				E5F844F4FBDD72FD4E08C327F25C3C82 /* Orientation.swift */,
+				D27198562504D563CA77590D8E52C397 /* RatioItemView.swift */,
+				F144779E2CBFE87046BA709894987598 /* RatioOptions.swift */,
+				EC80F14B29BE93C0D0202BD6A371A0F2 /* RatioPresenter.swift */,
+				652BC45EB1460A6C36FFF4AFD7520CAF /* RatioSelector.swift */,
+				3B79053E149EDCF8E9C604937B429BCC /* RotationCalculator.swift */,
+				E0830D672CF131592DF0D71C1BDD666D /* RotationDial.swift */,
+				F91AB74F8E98B5AFFA464A97B5BCE7DD /* RotationDial+Touches.swift */,
+				47973CE40140B2B61B51968BAE92CDC2 /* RotationDialConfig.swift */,
+				D2B806A61A18EB1D52F4283B57C04CD2 /* RotationDialPlate.swift */,
+				116B8F25174B29404AAFCA2C65E77CED /* RotationDialProtocol.swift */,
+				14319BEEA48959EFF5C680351B423743 /* RotationDialViewModel.swift */,
+				5E0326DD4D417BC9D10CCF0E42FF5980 /* RotationDialViewModelProtocol.swift */,
+				890A3A86C2CABE242BF80A3ED40331C4 /* SlideDial.swift */,
+				F20F2ED177E1B1A12019FA84F3216CC9 /* SlideDialConfig.swift */,
+				13F7DF589581BBF7F2D63C872146FC87 /* SlideDialViewModel.swift */,
+				1BDE007757D7F8B8856266F0C25C101D /* SlideRuler.swift */,
+				F64B804DDCA0F18406F738CD8048DDAF /* SlideRulerPositionHelper.swift */,
+				BCBDF3EACE0990A0A2D3D0CE5447A595 /* ToolBarButtonImageBuilder.swift */,
+				8CC20ABCF047249BAC067EB6549CB61A /* ToolBarButtonImageBuilder+DrawImage.swift */,
+				C6FE58FA2CC7910612B780FBC27CA94A /* ToolbarButtonOptions.swift */,
+				5EA7F74C394590EF9807F9DA6CBB8B3C /* UIImageExtensions.swift */,
+				3D67F47F0E92D699FBF65449F3BC7C32 /* UIViewExtensions.swift */,
+				B42C5946F55795AE5472B4C98313A2A8 /* Resources */,
+				D173D0E6EB1902F659D6752AB3724C9C /* Support Files */,
+			);
+			name = Mantis;
+			path = Mantis;
+			sourceTree = "<group>";
+		};
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		6DD95C2EB861EA1E567B73EB59E3261E /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				34C5C8EE06B42C23C53C3391E2C14505 /* Mantis */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		7E93937862205F4A32110A33C3C524C3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				316D22F8B19400DBC5073973480D1521 /* Mantis */,
+				E50395ED50F3D5D97E3957A2ED43921F /* Mantis-MantisResources */,
+				916A83C4CADFBB042F5C3DC2218FEC6B /* Pods-FitMe */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B42C5946F55795AE5472B4C98313A2A8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E2215B879522BE1063D4901049EB8B8C /* MantisLocalizable.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				6DD95C2EB861EA1E567B73EB59E3261E /* Pods */,
+				7E93937862205F4A32110A33C3C524C3 /* Products */,
+				2A0962C8A541733690BC49754D34AACC /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		D173D0E6EB1902F659D6752AB3724C9C /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				B961C2221A16B8FBFFC6376A65509EAA /* Mantis.modulemap */,
+				4DF452E7FF364FA9BD2379D461A0240D /* Mantis-dummy.m */,
+				76FC51CD4CE6AC7666A4EA9024E03AE0 /* Mantis-Info.plist */,
+				F7287CCF16C0E572065BF5A165F5DBF2 /* Mantis-prefix.pch */,
+				1265E4953FBA142C35FDEF9ABB379954 /* Mantis-umbrella.h */,
+				2127ED52AD5CAF0A03A6519587B020C8 /* Mantis.debug.xcconfig */,
+				013BAE3D459CA9CF4DE93B7C9907AB44 /* Mantis.release.xcconfig */,
+				75D6F5C43FC2B544E0628235EB87B39F /* ResourceBundle-MantisResources-Mantis-Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Mantis";
+			sourceTree = "<group>";
+		};
+		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FE73272F8F994ADFB5A7D3E5870C904F /* Pods-FitMe */ = {
+			isa = PBXGroup;
+			children = (
+				F0B8F17EC05C9EC9623F8C93F40DF941 /* Pods-FitMe.modulemap */,
+				90B8E61BF63964D9B16E55A004086B19 /* Pods-FitMe-acknowledgements.markdown */,
+				558942DD858C18763F7B789571A12F57 /* Pods-FitMe-acknowledgements.plist */,
+				5AED45DBFA1B03A7DB09E642148C9274 /* Pods-FitMe-dummy.m */,
+				0F70FC08106562AE46F156C423189CA9 /* Pods-FitMe-frameworks.sh */,
+				1FBC582A1C98D7EC5C61840FE7E56CE8 /* Pods-FitMe-Info.plist */,
+				8AF2268F19D910300BFA98E9BB9B9F8D /* Pods-FitMe-umbrella.h */,
+				9EA393563B8C150F6069E0C001BEFEAA /* Pods-FitMe.debug.xcconfig */,
+				9200E099215186EFFD86617BCD3CB27F /* Pods-FitMe.release.xcconfig */,
+			);
+			name = "Pods-FitMe";
+			path = "Target Support Files/Pods-FitMe";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		28BAF88CEAFAFF57C13E4AF24084D5EC /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98F05C845833773F1B7612EB3941BE0A /* Pods-FitMe-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B879C74BFE709B0F88CEE8AB598CD755 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				73AC2F3F4FD1539A121DE06A7AE918AE /* Mantis.h in Headers */,
+				3BF66B952CE77A6FDE275337587FFA98 /* Mantis-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		2FE76CFB815F0D65B5A0962A62EB8E05 /* Mantis-MantisResources */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BA95A7B9B8ECC9730903955D19F377B3 /* Build configuration list for PBXNativeTarget "Mantis-MantisResources" */;
+			buildPhases = (
+				82D11F1DC0269C1A7B3A534D4EB09BA4 /* Sources */,
+				09CA7107A02E3C34236E90A1874046E1 /* Frameworks */,
+				695D3179BDF10C40E4EF41EED114FD45 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Mantis-MantisResources";
+			productName = MantisResources;
+			productReference = E50395ED50F3D5D97E3957A2ED43921F /* Mantis-MantisResources */;
+			productType = "com.apple.product-type.bundle";
+		};
+		A62AD8A15A6B29BF2F3629C4B580585D /* Pods-FitMe */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A9D51882D9C302257860FBD003496A67 /* Build configuration list for PBXNativeTarget "Pods-FitMe" */;
+			buildPhases = (
+				28BAF88CEAFAFF57C13E4AF24084D5EC /* Headers */,
+				E872C76A4B136C45C8333A2FF2D49573 /* Sources */,
+				F89B22AA9004F283DAF5735316E80A16 /* Frameworks */,
+				AB30F48BB8F4B960720486198A4902A5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F5A28907FBDDA05DD30376566E6DABE1 /* PBXTargetDependency */,
+			);
+			name = "Pods-FitMe";
+			productName = Pods_FitMe;
+			productReference = 916A83C4CADFBB042F5C3DC2218FEC6B /* Pods-FitMe */;
+			productType = "com.apple.product-type.framework";
+		};
+		B765AE885D71986CD6D5EC0726D8ED31 /* Mantis */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A294507A28EDFD1A4FC1E3680AD7796 /* Build configuration list for PBXNativeTarget "Mantis" */;
+			buildPhases = (
+				B879C74BFE709B0F88CEE8AB598CD755 /* Headers */,
+				C8CC81E20CE05C51F9F6C0D8C6DBB748 /* Sources */,
+				EAAFBC033EF5B0D450E371324B27F914 /* Frameworks */,
+				0FF2E6BC3BA4452234E1DEFEBF5F1D69 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A3485321B82BCC7717D035F3FFE5114E /* PBXTargetDependency */,
+			);
+			name = Mantis;
+			productName = Mantis;
+			productReference = 316D22F8B19400DBC5073973480D1521 /* Mantis */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1300;
+				LastUpgradeCheck = 1300;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				ar,
+				de,
+				en,
+				es,
+				fr,
+				it,
+				ja,
+				ko,
+				"ko-KR",
+				nl,
+				"pt-PT",
+				ru,
+				"zh-Hans",
+				"zh-Hant",
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = 7E93937862205F4A32110A33C3C524C3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B765AE885D71986CD6D5EC0726D8ED31 /* Mantis */,
+				2FE76CFB815F0D65B5A0962A62EB8E05 /* Mantis-MantisResources */,
+				A62AD8A15A6B29BF2F3629C4B580585D /* Pods-FitMe */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0FF2E6BC3BA4452234E1DEFEBF5F1D69 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F8FDE8D1B9DC98D38B3C762AC5A8F0B8 /* Mantis-MantisResources in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		695D3179BDF10C40E4EF41EED114FD45 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				71C3F751699453C96803C7BB567879EE /* MantisLocalizable.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB30F48BB8F4B960720486198A4902A5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		82D11F1DC0269C1A7B3A534D4EB09BA4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C8CC81E20CE05C51F9F6C0D8C6DBB748 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DA7DF5605E4CA6172B7C2A2A82F52EBD /* Angle.swift in Sources */,
+				4FAF910692411151751493DF76E477AB /* CGAffineTransformExtensions.swift in Sources */,
+				C80D73D49DE71965199B2FB995B01CAC /* CGImageExtensions.swift in Sources */,
+				FF5513C330EC00982BCE2DA0900E7B0C /* Config.swift in Sources */,
+				C3FADE6352D9C2E4E3023FA4CB1C9D9B /* CoreGraphicsExtensions.swift in Sources */,
+				9B9E4EABA851016868AD6D9A55452F99 /* CropAuxiliaryIndicatorView.swift in Sources */,
+				8503FD586532BB4319FF7DFD7E67A9F4 /* CropAuxiliaryIndicatorView+Accessibility.swift in Sources */,
+				A76BE9DB14F42B751DC88C95FE0BCF72 /* CropAuxiliaryIndicatorViewProtocol.swift in Sources */,
+				006944C9F8F07665EB248B2E9D58D643 /* CropBoxFreeAspectFrameUpdater.swift in Sources */,
+				6F31A642E34998A35446370FE94392F9 /* CropBoxLockedAspectFrameUpdater.swift in Sources */,
+				4F0169D0DA637235FA94835C536E3525 /* CropData.swift in Sources */,
+				75EDC125D74BA659E6E016BC3419FAF5 /* CropDimmingView.swift in Sources */,
+				1F0A968C9F7AC307F97696BAA300E393 /* CropMaskProtocal.swift in Sources */,
+				9E256C3F1AAF3E33D09C20FF30BB0A98 /* CropMaskViewManager.swift in Sources */,
+				2756E142BD49BF8928FD007263F04ED9 /* CropMaskViewManagerProtocol.swift in Sources */,
+				3D7904E7DB478FCC0F2EE54AC52609F4 /* CropScrollViewProtocol.swift in Sources */,
+				A050C49E9C04E71479456EB614A117D9 /* CropToolbar.swift in Sources */,
+				C15F1E83D61AD42883049F9C705B8835 /* CropToolbarConfig.swift in Sources */,
+				F5BDDA3480C4282D597EFAE0D52C519F /* CropToolbarProtocol.swift in Sources */,
+				22006F53353FE2BEB15C46E965ECCB54 /* CropView.swift in Sources */,
+				DF50ABC4963A4AC06ACF50D0CCB58002 /* CropView+Touches.swift in Sources */,
+				633EF1CAC8A0520F3B8862EE90E4B706 /* CropView+UIScrollViewDelegate.swift in Sources */,
+				99FC198B7E438B6ED56CC23691E31CCB /* CropViewConfig.swift in Sources */,
+				6A0B05682B728A3BB503E97D4AF92A6A /* CropViewController.swift in Sources */,
+				838A91C2233ED4C5E244642B59596848 /* CropViewControllerDelegate.swift in Sources */,
+				41E5159922633B899D0E9F36E891EA89 /* CropViewModel.swift in Sources */,
+				4931E215054F253A1948EECA8A6383C5 /* CropViewModelProtocol.swift in Sources */,
+				FD6729DDF2D9609296B429348CDA8E00 /* CropViewProtocol.swift in Sources */,
+				3134D64DCBD22D6FE7E932FA1EBA9194 /* CropViewStatus.swift in Sources */,
+				E79F4917E1C22C3D7283F05B1792C8E5 /* CropVisualEffectView.swift in Sources */,
+				B5D5E6B09B08C93D2B5A0AC0C5CBCEA9 /* CropWorkbenchView.swift in Sources */,
+				661B70C540B68E9F05678E4A2AF707B6 /* Definition.swift in Sources */,
+				E6A4004536B8C6049B6B14545DB348E7 /* Enum.swift in Sources */,
+				D3AF286E0D0805402518A73FC740C905 /* FixedRatioManager.swift in Sources */,
+				2E58A0E4C12F5953ACD912211024BE77 /* GeometryHelper.swift in Sources */,
+				A2EF00653B92E580AA29F13D2D5B365E /* Global.swift in Sources */,
+				EF904E6335C96BA20798312E091C20B7 /* ImageAutoAdjustHelper.swift in Sources */,
+				561941BD2F0858B43A3202E1FC13990B /* ImageContainer.swift in Sources */,
+				EB916D61C1B62F04F1D7945685508B30 /* ImageContainerProtocol.swift in Sources */,
+				3DDAA10F65E484FF3502167D11585BA8 /* LocalizedHelper.swift in Sources */,
+				1345FC874FB0E3215099FA8864421DFA /* Mantis.swift in Sources */,
+				BA781A85036884339ECF0591ADE88D0D /* Mantis-dummy.m in Sources */,
+				8A84718E4BFA9D3B2B372EF4409B9BCF /* Orientation.swift in Sources */,
+				624F874C2779DF89E18609D620109986 /* RatioItemView.swift in Sources */,
+				F4685F94B9A8C4908D68C241C3AFD67D /* RatioOptions.swift in Sources */,
+				8F6F16249AC92AC0BE843F8AB02198D9 /* RatioPresenter.swift in Sources */,
+				0B26AFAA9AF756E8075F66B746C53095 /* RatioSelector.swift in Sources */,
+				83D1C303E1445EED117E8DD8C5C774A6 /* RotationCalculator.swift in Sources */,
+				49D8EA36E85A083A5DB759FEECB076AA /* RotationDial.swift in Sources */,
+				AD318E4D5449FC13AF116CFA8DE84011 /* RotationDial+Touches.swift in Sources */,
+				18730E264BECE6BDF8EBBAE1D08EEB9F /* RotationDialConfig.swift in Sources */,
+				AB482FE18A39461B94B6F1EF7ACF5B1D /* RotationDialPlate.swift in Sources */,
+				FEE3DDBB5FC22F612939680D88F82E01 /* RotationDialProtocol.swift in Sources */,
+				20655933BB5A6DE3B0170B319F11CD97 /* RotationDialViewModel.swift in Sources */,
+				0981A498E955228C858A7D9E3FFE13F2 /* RotationDialViewModelProtocol.swift in Sources */,
+				D0323E9095027374C9AB646D95F135A2 /* SlideDial.swift in Sources */,
+				274FCF9C83796454A122D4F9031A56CA /* SlideDialConfig.swift in Sources */,
+				18905379E73C00BBD6EF33FFBCF8DD6C /* SlideDialViewModel.swift in Sources */,
+				9E7FF096B11137CB2A855C08427A54B1 /* SlideRuler.swift in Sources */,
+				09139F424CD4DE32EACE1BE332AAE704 /* SlideRulerPositionHelper.swift in Sources */,
+				B330D9317CE5E5F23DE001BBCD47286E /* ToolBarButtonImageBuilder.swift in Sources */,
+				6390947636C0B809AAC2EBFC5D4331D1 /* ToolBarButtonImageBuilder+DrawImage.swift in Sources */,
+				2C483226F8978572432B4699BC4E3C55 /* ToolbarButtonOptions.swift in Sources */,
+				DC9A9F3EBB96214D2CD795AD82B8B39E /* UIImageExtensions.swift in Sources */,
+				F22A4D956CDA21D24D130D5C01983891 /* UIViewExtensions.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E872C76A4B136C45C8333A2FF2D49573 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B7C545338D8DE62B4DC1195113BCEE3 /* Pods-FitMe-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A3485321B82BCC7717D035F3FFE5114E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Mantis-MantisResources";
+			target = 2FE76CFB815F0D65B5A0962A62EB8E05 /* Mantis-MantisResources */;
+			targetProxy = B4992F0FDADCF2ABFA05E7CB0A64B441 /* PBXContainerItemProxy */;
+		};
+		F5A28907FBDDA05DD30376566E6DABE1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Mantis;
+			target = B765AE885D71986CD6D5EC0726D8ED31 /* Mantis */;
+			targetProxy = D01813852590FD6F8D6CE84F54DAE6D6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		E2215B879522BE1063D4901049EB8B8C /* MantisLocalizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				09050EE4CDD40B27864B589AFC59F357 /* MantisLocalizable.strings */,
+				05DF5760FCD7A36626A5C3F6DF3B6238 /* MantisLocalizable.strings */,
+				38B6D1B580E1E85533D96B0F3CD69AA7 /* MantisLocalizable.strings */,
+				F1DDB0A04BE6313B2C9660E47F3AB873 /* MantisLocalizable.strings */,
+				DC7F68A55BC0492EFF6F2ACBBAA0825D /* MantisLocalizable.strings */,
+				C275DC33F4ACF02339399AD89FF7EF49 /* MantisLocalizable.strings */,
+				6FC5AD362B458A67741980BFAAFFFE38 /* MantisLocalizable.strings */,
+				07B03126B8084025FAD5EC0DFC65226B /* MantisLocalizable.strings */,
+				C25CEF0FDE3AF483CDCE8D6C5AD396C7 /* MantisLocalizable.strings */,
+				DB4A3F8BD4BEC9F925444916F9F9F8C2 /* MantisLocalizable.strings */,
+				6DD320514F0F4EA69F289723CCF26B79 /* MantisLocalizable.strings */,
+				6CC182869DB84F442F7C6030D8EF5B2E /* MantisLocalizable.strings */,
+				289C00D5D9FB33986CC873BF07A1AF5C /* MantisLocalizable.strings */,
+				04A2B53BA3C18578145BF0C3B89582C2 /* MantisLocalizable.strings */,
+			);
+			name = MantisLocalizable.strings;
+			path = Sources/Mantis/Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		23B8ED935B10CCCD4FC6626ED9122F6F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2127ED52AD5CAF0A03A6519587B020C8 /* Mantis.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGNING_ALLOWED = NO;
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Mantis";
+				IBSC_MODULE = Mantis;
+				INFOPLIST_FILE = "Target Support Files/Mantis/ResourceBundle-MantisResources-Mantis-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				PRODUCT_NAME = MantisResources;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		2B00234CF54E4C2DF9A903D4409F1AC5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9200E099215186EFFD86617BCD3CB27F /* Pods-FitMe.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FitMe/Pods-FitMe-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FitMe/Pods-FitMe.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		2BC951EEDF55A6592F03EFAACA3AEA4B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2127ED52AD5CAF0A03A6519587B020C8 /* Mantis.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Mantis/Mantis-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Mantis/Mantis-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/Mantis/Mantis.modulemap";
+				PRODUCT_MODULE_NAME = Mantis;
+				PRODUCT_NAME = Mantis;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		6A5C026ED62BBFE3380CD257EEFAEB20 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		CAADA4E191F1E7D06256EC13C4D75BE0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 013BAE3D459CA9CF4DE93B7C9907AB44 /* Mantis.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGNING_ALLOWED = NO;
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Mantis";
+				IBSC_MODULE = Mantis;
+				INFOPLIST_FILE = "Target Support Files/Mantis/ResourceBundle-MantisResources-Mantis-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				PRODUCT_NAME = MantisResources;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		D2EE8E4CE85001745302CBFB6D2BEF2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9EA393563B8C150F6069E0C001BEFEAA /* Pods-FitMe.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FitMe/Pods-FitMe-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FitMe/Pods-FitMe.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		DEB53A12E932552F5E55428B6DD46681 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 013BAE3D459CA9CF4DE93B7C9907AB44 /* Mantis.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Mantis/Mantis-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Mantis/Mantis-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/Mantis/Mantis.modulemap";
+				PRODUCT_MODULE_NAME = Mantis;
+				PRODUCT_NAME = Mantis;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E873CA97BD124B21839AF13C9BE1CD18 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1A294507A28EDFD1A4FC1E3680AD7796 /* Build configuration list for PBXNativeTarget "Mantis" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2BC951EEDF55A6592F03EFAACA3AEA4B /* Debug */,
+				DEB53A12E932552F5E55428B6DD46681 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6A5C026ED62BBFE3380CD257EEFAEB20 /* Debug */,
+				E873CA97BD124B21839AF13C9BE1CD18 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A9D51882D9C302257860FBD003496A67 /* Build configuration list for PBXNativeTarget "Pods-FitMe" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D2EE8E4CE85001745302CBFB6D2BEF2C /* Debug */,
+				2B00234CF54E4C2DF9A903D4409F1AC5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BA95A7B9B8ECC9730903955D19F377B3 /* Build configuration list for PBXNativeTarget "Mantis-MantisResources" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23B8ED935B10CCCD4FC6626ED9122F6F /* Debug */,
+				CAADA4E191F1E7D06256EC13C4D75BE0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}

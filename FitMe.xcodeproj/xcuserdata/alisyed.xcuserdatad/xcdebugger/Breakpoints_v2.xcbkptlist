@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4EEA4B8-8058-4838-AC05-70C8FAEB8DB5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6BDFC7D-D1AF-4A27-BB52-FE8EC4555183"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Auth/ForgotPassword/ResetPassword.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A6BDFC7D-D1AF-4A27-BB52-FE8EC4555183 - 5206223037135c21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in FitMe.ResetPassword.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/ForgotPassword/ResetPassword.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "A6BDFC7D-D1AF-4A27-BB52-FE8EC4555183 - 77f3aacaae48c245"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 () -&gt; SwiftUI.Button&lt;SwiftUI.Text&gt; in FitMe.ResetPassword.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/ForgotPassword/ResetPassword.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "409AF58E-7F24-49C9-A122-52BAA1523B1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Auth/ForgotPassword/ResetPassword.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5889832-F976-4BC6-959F-45D2A25A46AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "socialLogin(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D5889832-F976-4BC6-959F-45D2A25A46AD - 187779b6bf5a2e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "5336">
+               </Location>
+               <Location
+                  uuid = "D5889832-F976-4BC6-959F-45D2A25A46AD - 187779b6bf59d61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "6468">
+               </Location>
+               <Location
+                  uuid = "D5889832-F976-4BC6-959F-45D2A25A46AD - 4a3f2f7a08ddd471"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin(completion: () -&gt; ()) async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "6604">
+               </Location>
+               <Location
+                  uuid = "D5889832-F976-4BC6-959F-45D2A25A46AD - 4a3f2f7a08ddd412"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin(completion: () -&gt; ()) async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "144"
+                  endingLineNumber = "144"
+                  offsetFromSymbolStart = "6652">
+               </Location>
+               <Location
+                  uuid = "D5889832-F976-4BC6-959F-45D2A25A46AD - 4a3f2f7a08ddd471"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin(completion: () -&gt; ()) async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "6652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF4F7EC9-1DD1-45F5-A716-964CA02C1EAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "socialLogin(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AF4F7EC9-1DD1-45F5-A716-964CA02C1EAA - 187779b6bf5a313"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "2252">
+               </Location>
+               <Location
+                  uuid = "AF4F7EC9-1DD1-45F5-A716-964CA02C1EAA - 187779b6bf5a313"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "2852">
+               </Location>
+               <Location
+                  uuid = "AF4F7EC9-1DD1-45F5-A716-964CA02C1EAA - 187779b6bf5a3af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "2252">
+               </Location>
+               <Location
+                  uuid = "AF4F7EC9-1DD1-45F5-A716-964CA02C1EAA - 187779b6bf5a3af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "4424">
+               </Location>
+               <Location
+                  uuid = "AF4F7EC9-1DD1-45F5-A716-964CA02C1EAA - 4a3f2f7a08ddea02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin(completion: () -&gt; ()) async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "4492">
+               </Location>
+               <Location
+                  uuid = "AF4F7EC9-1DD1-45F5-A716-964CA02C1EAA - 4a3f2f7a08ddea61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin(completion: () -&gt; ()) async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "4492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAD9B94F-C75E-4A3C-A230-576F6725DC0C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "login()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2409A0F2-DAEF-4326-BED2-AEEEA7C78C77"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Profile/ProfileView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2409A0F2-DAEF-4326-BED2-AEEEA7C78C77 - a90af60fe7a0a2b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 (__C.UIImage, Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #4 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0 in FitMe.ProfileView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Profile/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "2409A0F2-DAEF-4326-BED2-AEEEA7C78C77 - 2ae256cd93734dc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 (__C.UIImage, Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #4 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0 in FitMe.ProfileView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Profile/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "2409A0F2-DAEF-4326-BED2-AEEEA7C78C77 - 1cbca2ab8149eebe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 (__C.UIImage, Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #4 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.ignoresSafeArea(_: SwiftUI.SafeAreaRegions, edges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0 in FitMe.ProfileView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Profile/ProfileView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC575496-FF35-4C82-9D2D-E3DAD6975EFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Profile/ViewModel/ProfileViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "updateProfilePicture()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CC575496-FF35-4C82-9D2D-E3DAD6975EFC - 24c5bfe209163f83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.ProfileViewModel.updateProfilePicture() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Profile/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2196">
+               </Location>
+               <Location
+                  uuid = "CC575496-FF35-4C82-9D2D-E3DAD6975EFC - 24c5bfe209163f83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.ProfileViewModel.updateProfilePicture() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Profile/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2228">
+               </Location>
+               <Location
+                  uuid = "CC575496-FF35-4C82-9D2D-E3DAD6975EFC - 24c5bfe209163f6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.ProfileViewModel.updateProfilePicture() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Profile/ViewModel/ProfileViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "2196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C18C15D-75F9-482A-AF5B-5634F6CC13A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/AppMain/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7C18C15D-75F9-482A-AF5B-5634F6CC13A7 - e0d7b8cff6e2b001"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Optional&lt;SwiftUI._ConditionalContent&lt;FitMe.LoginView, FitMe.SplashView&gt;&gt; in FitMe.ContentView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/AppMain/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "7C18C15D-75F9-482A-AF5B-5634F6CC13A7 - f15ccb9077990cc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;FitMe.LoginView, FitMe.SplashView&gt; in FitMe.ContentView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/AppMain/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  uuid = "7C18C15D-75F9-482A-AF5B-5634F6CC13A7 - fcfec02dae16521a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;FitMe.TabBarView, SwiftUI._ConditionalContent&lt;FitMe.LoginView, FitMe.SplashView&gt;&gt; in FitMe.ContentView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/AppMain/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1220">
+               </Location>
+               <Location
+                  uuid = "7C18C15D-75F9-482A-AF5B-5634F6CC13A7 - fcfec02dae16521a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;FitMe.TabBarView, SwiftUI._ConditionalContent&lt;FitMe.LoginView, FitMe.SplashView&gt;&gt; in FitMe.ContentView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/AppMain/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "7C18C15D-75F9-482A-AF5B-5634F6CC13A7 - fcfec02dae16521a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;FitMe.TabBarView, SwiftUI._ConditionalContent&lt;FitMe.LoginView, FitMe.SplashView&gt;&gt; in FitMe.ContentView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/AppMain/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4DFD74E-B282-40D3-B929-B461086783CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "socialLogin(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E4DFD74E-B282-40D3-B929-B461086783CA - 187779b6bf5a2c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "5296">
+               </Location>
+               <Location
+                  uuid = "E4DFD74E-B282-40D3-B929-B461086783CA - 187779b6bf5a2c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin() async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "5884">
+               </Location>
+               <Location
+                  uuid = "E4DFD74E-B282-40D3-B929-B461086783CA - 4a3f2f7a08ddd4cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin(completion: () -&gt; ()) async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "6012">
+               </Location>
+               <Location
+                  uuid = "E4DFD74E-B282-40D3-B929-B461086783CA - 4a3f2f7a08ddd4ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin(completion: () -&gt; ()) async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "139"
+                  endingLineNumber = "139"
+                  offsetFromSymbolStart = "6060">
+               </Location>
+               <Location
+                  uuid = "E4DFD74E-B282-40D3-B929-B461086783CA - 4a3f2f7a08ddd4cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for FitMe.AuthViewModel.socialLogin(completion: () -&gt; ()) async -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AuthViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "6060">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D243838-A7C2-4D2A-A735-F3B26F6C9965"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Auth/Login/View/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0D243838-A7C2-4D2A-A735-F3B26F6C9965 - 1297df0674d86d48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "788">
+               </Location>
+               <Location
+                  uuid = "0D243838-A7C2-4D2A-A735-F3B26F6C9965 - 2d4d6836d3f8f6bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0 in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "0D243838-A7C2-4D2A-A735-F3B26F6C9965 - 1297df0674d86dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "880">
+               </Location>
+               <Location
+                  uuid = "0D243838-A7C2-4D2A-A735-F3B26F6C9965 - 1297df0674d86dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "0D243838-A7C2-4D2A-A735-F3B26F6C9965 - 1297df0674d86d48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "0D243838-A7C2-4D2A-A735-F3B26F6C9965 - 1297df0674d86d48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "0D243838-A7C2-4D2A-A735-F3B26F6C9965 - 2d4d6836d3f8f6bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0 in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "0D243838-A7C2-4D2A-A735-F3B26F6C9965 - 1297df0674d86d48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "748">
+               </Location>
+               <Location
+                  uuid = "0D243838-A7C2-4D2A-A735-F3B26F6C9965 - 2d4d6836d3f8f6bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0 in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "315E630D-89B6-445D-BCCA-7B599915F88B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Auth/Login/View/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "315E630D-89B6-445D-BCCA-7B599915F88B - 2d4d6836d3f8f6bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0 in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "315E630D-89B6-445D-BCCA-7B599915F88B - 1297df0674d86dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "880">
+               </Location>
+               <Location
+                  uuid = "315E630D-89B6-445D-BCCA-7B599915F88B - 1297df0674d86dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "315E630D-89B6-445D-BCCA-7B599915F88B - 2d4d6836d3f8f6bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0 in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "315E630D-89B6-445D-BCCA-7B599915F88B - 2d4d6836d3f8f6bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0 in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "315E630D-89B6-445D-BCCA-7B599915F88B - 2d4d6836d3f8f664"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0 in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "315E630D-89B6-445D-BCCA-7B599915F88B - 2d4d6836d3f8f664"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0 in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "744">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64E591AD-E4AE-4346-89E4-EBCD39DD9AD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Auth/Login/View/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "64E591AD-E4AE-4346-89E4-EBCD39DD9AD0 - 1297df0674d86dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "880">
+               </Location>
+               <Location
+                  uuid = "64E591AD-E4AE-4346-89E4-EBCD39DD9AD0 - 2d4d6836d3f8f626"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationBarBackButtonHidden(Swift.Bool) -&gt; some&gt;&gt;.0 in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "64E591AD-E4AE-4346-89E4-EBCD39DD9AD0 - 1297df0674d86dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "64E591AD-E4AE-4346-89E4-EBCD39DD9AD0 - 1297df0674d86c72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "988">
+               </Location>
+               <Location
+                  uuid = "64E591AD-E4AE-4346-89E4-EBCD39DD9AD0 - 1297df0674d86db4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "64E591AD-E4AE-4346-89E4-EBCD39DD9AD0 - 87a93546dfcc054b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; FitMe.ForgotPasswordView in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "64E591AD-E4AE-4346-89E4-EBCD39DD9AD0 - 1297df0674d86db4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+               <Location
+                  uuid = "64E591AD-E4AE-4346-89E4-EBCD39DD9AD0 - a74a000b2fd5f248"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbarRole(SwiftUI.ToolbarRole) -&gt; some&gt;&gt;.0 in FitMe.LoginView.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/Login/View/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "179A0B78-A6CD-4366-9D25-2594367FD9E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Auth/SignUp/SignUpAndDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "262"
+            endingLineNumber = "262"
+            landmarkName = "userDietPreferences()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4213BAC8-1642-40E4-99CD-61F34F179ACC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Auth/SignUp/SignUpAndDetailsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "272"
+            endingLineNumber = "272"
+            landmarkName = "userDietPreferences()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4213BAC8-1642-40E4-99CD-61F34F179ACC - c0595451f42f38ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.AppLogo, &lt;&lt;opaque return type of SwiftUI.Text.description() -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt;&gt;)&gt; in FitMe.SignUpAndDetailsView.userDietPreferences() -&gt; some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/SignUp/SignUpAndDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "264"
+                  endingLineNumber = "264"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "4213BAC8-1642-40E4-99CD-61F34F179ACC - c0595451f42f38ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.AppLogo, &lt;&lt;opaque return type of SwiftUI.Text.description() -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt;&gt;)&gt; in FitMe.SignUpAndDetailsView.userDietPreferences() -&gt; some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/SignUp/SignUpAndDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "264"
+                  endingLineNumber = "264"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "4213BAC8-1642-40E4-99CD-61F34F179ACC - d5dbf6c0ee6474b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.AppLogo, &lt;&lt;opaque return type of SwiftUI.Text.description() -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt;&gt;)&gt; in FitMe.SignUpAndDetailsView.userDietPreferences() -&gt; some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/SignUp/SignUpAndDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "264"
+                  endingLineNumber = "264"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "4213BAC8-1642-40E4-99CD-61F34F179ACC - fb249973c8bdb0be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.AppLogo, &lt;&lt;opaque return type of SwiftUI.Text.description() -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt;&gt;)&gt; in FitMe.SignUpAndDetailsView.userDietPreferences() -&gt; some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/SignUp/SignUpAndDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "264"
+                  endingLineNumber = "264"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "4213BAC8-1642-40E4-99CD-61F34F179ACC - c0595451f42f39a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.AppLogo, &lt;&lt;opaque return type of SwiftUI.Text.description() -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt;&gt;)&gt; in FitMe.SignUpAndDetailsView.userDietPreferences() -&gt; some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/SignUp/SignUpAndDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "272"
+                  endingLineNumber = "272"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  uuid = "4213BAC8-1642-40E4-99CD-61F34F179ACC - d5dbf6c0ee6475a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.AppLogo, &lt;&lt;opaque return type of SwiftUI.Text.description() -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt;&gt;)&gt; in FitMe.SignUpAndDetailsView.userDietPreferences() -&gt; some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/SignUp/SignUpAndDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "272"
+                  endingLineNumber = "272"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "4213BAC8-1642-40E4-99CD-61F34F179ACC - fb249973c8bdb1a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(FitMe.AppLogo, &lt;&lt;opaque return type of SwiftUI.Text.description() -&gt; some&gt;&gt;.0, SwiftUI.ScrollView&lt;SwiftUI.TupleView&lt;(FitMe.DietPreferencesAndFoodDislikes, SwiftUI.Spacer, SwiftUI.Button&lt;FitMe.RedButton&gt;)&gt;&gt;)&gt; in FitMe.SignUpAndDetailsView.userDietPreferences() -&gt; some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Auth/SignUp/SignUpAndDetailsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "272"
+                  endingLineNumber = "272"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC5EB223-A3EC-4EFF-8217-330809ECE8AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/AddRecipeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "screenView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD6BCD1B-EBA2-433B-B480-F378DB0E1D8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/AddRecipeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "screenView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD6BCD1B-EBA2-433B-B480-F378DB0E1D8D - 4f1231c3436ca1b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #8 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, FitMe.SimpleTextField, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, FitMe.StringDropDown)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(FitMe.SimpleTextField, FitMe.CustomDropDown)&gt;&gt;, FitMe.SimpleTextField, &lt;&lt;opaque return type of FitMe.AddRecipeView.caloriesSliders() -&gt; some&gt;&gt;.0, FitMe.CustomDropDown, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, FitMe.IngredientRowView&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Button&lt;FitMe.RedButton&gt;, SwiftUI.Button&lt;FitMe.CancelButton&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in FitMe.AddRecipeView.screenView() -&gt; some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/AddRecipeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "AD6BCD1B-EBA2-433B-B480-F378DB0E1D8D - 9e689f33a5f1c3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in closure #8 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, FitMe.SimpleTextField, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, FitMe.StringDropDown)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(FitMe.SimpleTextField, FitMe.CustomDropDown)&gt;&gt;, FitMe.SimpleTextField, &lt;&lt;opaque return type of FitMe.AddRecipeView.caloriesSliders() -&gt; some&gt;&gt;.0, FitMe.CustomDropDown, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, FitMe.IngredientRowView&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Button&lt;FitMe.RedButton&gt;, SwiftUI.Button&lt;FitMe.CancelButton&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in FitMe.AddRecipeView.screenView() -&gt; some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/AddRecipeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "AD6BCD1B-EBA2-433B-B480-F378DB0E1D8D - 97a8d14c64db7da2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #8 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, FitMe.SimpleTextField, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, FitMe.StringDropDown)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(FitMe.SimpleTextField, FitMe.CustomDropDown)&gt;&gt;, FitMe.SimpleTextField, &lt;&lt;opaque return type of FitMe.AddRecipeView.caloriesSliders() -&gt; some&gt;&gt;.0, FitMe.CustomDropDown, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, FitMe.IngredientRowView&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Button&lt;FitMe.RedButton&gt;, SwiftUI.Button&lt;FitMe.CancelButton&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in FitMe.AddRecipeView.screenView() -&gt; some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/AddRecipeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78116D45-FAE1-40A6-8ED0-0CA5567058A2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/EndPoints/RecipeEndPoints.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0AF24E6-0F07-48A7-9C58-180BED09A3D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Manager/Network Manager/API_Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getParamsFromCodable(object:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0A0EA6C-44CF-462E-856B-C542E3EAD5AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "451"
+            endingLineNumber = "451"
+            landmarkName = "validateRecipe()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B0A0EA6C-44CF-462E-856B-C542E3EAD5AB - 42dfb43c100b16b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "1384">
+               </Location>
+               <Location
+                  uuid = "B0A0EA6C-44CF-462E-856B-C542E3EAD5AB - 42dfb43c100b16b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "1388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE7573D0-1062-44A2-9E66-37F562F83071"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "468"
+            endingLineNumber = "468"
+            landmarkName = "validateRecipe()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE7573D0-1062-44A2-9E66-37F562F83071 - 42dfb43c100b24fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "376"
+                  endingLineNumber = "376"
+                  offsetFromSymbolStart = "2124">
+               </Location>
+               <Location
+                  uuid = "FE7573D0-1062-44A2-9E66-37F562F83071 - 42dfb43c100b24c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "377"
+                  endingLineNumber = "377"
+                  offsetFromSymbolStart = "2132">
+               </Location>
+               <Location
+                  uuid = "FE7573D0-1062-44A2-9E66-37F562F83071 - 42dfb43c100b24c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "377"
+                  endingLineNumber = "377"
+                  offsetFromSymbolStart = "2148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "115708EC-B5D2-4734-8760-83E0FF0D28AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "474"
+            endingLineNumber = "474"
+            landmarkName = "validateRecipe()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "115708EC-B5D2-4734-8760-83E0FF0D28AD - 42dfb43c100b2582"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "383"
+                  endingLineNumber = "383"
+                  offsetFromSymbolStart = "2360">
+               </Location>
+               <Location
+                  uuid = "115708EC-B5D2-4734-8760-83E0FF0D28AD - 42dfb43c100b2582"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "383"
+                  endingLineNumber = "383"
+                  offsetFromSymbolStart = "2648">
+               </Location>
+               <Location
+                  uuid = "115708EC-B5D2-4734-8760-83E0FF0D28AD - 42dfb43c100b2582"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "383"
+                  endingLineNumber = "383"
+                  offsetFromSymbolStart = "2664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBA55B18-7D71-4191-81C5-01240EF7C3D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "475"
+            endingLineNumber = "475"
+            landmarkName = "validateRecipe()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBA55B18-7D71-4191-81C5-01240EF7C3D2 - 42dfb43c100b2582"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "383"
+                  endingLineNumber = "383"
+                  offsetFromSymbolStart = "2360">
+               </Location>
+               <Location
+                  uuid = "EBA55B18-7D71-4191-81C5-01240EF7C3D2 - 42dfb43c100b25e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "384"
+                  endingLineNumber = "384"
+                  offsetFromSymbolStart = "2836">
+               </Location>
+               <Location
+                  uuid = "EBA55B18-7D71-4191-81C5-01240EF7C3D2 - 42dfb43c100b25e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "384"
+                  endingLineNumber = "384"
+                  offsetFromSymbolStart = "2852">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13DC18CF-DB4C-4031-A56F-CDAFD5BCE752"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "476"
+            endingLineNumber = "476"
+            landmarkName = "validateRecipe()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13DC18CF-DB4C-4031-A56F-CDAFD5BCE752 - 42dfb43c100b25cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "385"
+                  endingLineNumber = "385"
+                  offsetFromSymbolStart = "2648">
+               </Location>
+               <Location
+                  uuid = "13DC18CF-DB4C-4031-A56F-CDAFD5BCE752 - 42dfb43c100b25cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "385"
+                  endingLineNumber = "385"
+                  offsetFromSymbolStart = "2872">
+               </Location>
+               <Location
+                  uuid = "13DC18CF-DB4C-4031-A56F-CDAFD5BCE752 - 42dfb43c100b25cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "385"
+                  endingLineNumber = "385"
+                  offsetFromSymbolStart = "2888">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "918AA4A5-024B-493A-B41A-D9045633F884"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "480"
+            endingLineNumber = "480"
+            landmarkName = "validateRecipe()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "918AA4A5-024B-493A-B41A-D9045633F884 - 42dfb43c100b228a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "391"
+                  endingLineNumber = "391"
+                  offsetFromSymbolStart = "2916">
+               </Location>
+               <Location
+                  uuid = "918AA4A5-024B-493A-B41A-D9045633F884 - 42dfb43c100b2548"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "2916">
+               </Location>
+               <Location
+                  uuid = "918AA4A5-024B-493A-B41A-D9045633F884 - 42dfb43c100b2548"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "389"
+                  endingLineNumber = "389"
+                  offsetFromSymbolStart = "2932">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8937D16-8812-41E3-940C-7FD30C6FAA49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "481"
+            endingLineNumber = "481"
+            landmarkName = "validateRecipe()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8937D16-8812-41E3-940C-7FD30C6FAA49 - 42dfb43c100b228a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "391"
+                  endingLineNumber = "391"
+                  offsetFromSymbolStart = "2916">
+               </Location>
+               <Location
+                  uuid = "E8937D16-8812-41E3-940C-7FD30C6FAA49 - 42dfb43c100b22a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "390"
+                  endingLineNumber = "390"
+                  offsetFromSymbolStart = "3104">
+               </Location>
+               <Location
+                  uuid = "E8937D16-8812-41E3-940C-7FD30C6FAA49 - 42dfb43c100b22a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "390"
+                  endingLineNumber = "390"
+                  offsetFromSymbolStart = "3120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "127412A2-2EDE-4F33-8DF7-BBA2EBE24597"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "482"
+            endingLineNumber = "482"
+            landmarkName = "validateRecipe()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "127412A2-2EDE-4F33-8DF7-BBA2EBE24597 - 42dfb43c100b228a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "391"
+                  endingLineNumber = "391"
+                  offsetFromSymbolStart = "2916">
+               </Location>
+               <Location
+                  uuid = "127412A2-2EDE-4F33-8DF7-BBA2EBE24597 - 42dfb43c100b228a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "391"
+                  endingLineNumber = "391"
+                  offsetFromSymbolStart = "3140">
+               </Location>
+               <Location
+                  uuid = "127412A2-2EDE-4F33-8DF7-BBA2EBE24597 - 42dfb43c100b228a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.RecipeViewModel.validateRecipe() -&gt; Swift.Bool"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/ViewModel/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "391"
+                  endingLineNumber = "391"
+                  offsetFromSymbolStart = "3156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5915DBD-6810-4046-BC86-7636F6F1E43F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Shared/ViewModels/AppleSignIn.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "authorizationController(controller:didCompleteWithError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0F6426F-EF44-4884-8C5B-45B81E950991"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Shared/ViewModels/AppleSignIn.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "setUserData(authResult:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0F6426F-EF44-4884-8C5B-45B81E950991 - 6a77e8f14dcb5de9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.AppleSignIn.setUserData(authResult: __C.FIRAuthDataResult) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AppleSignIn.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "F0F6426F-EF44-4884-8C5B-45B81E950991 - 6a77e8f14dcb5de9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.AppleSignIn.setUserData(authResult: __C.FIRAuthDataResult) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Shared/ViewModels/AppleSignIn.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB1DA3E2-FD8C-49B8-9356-4AA366701776"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/AddIngredientsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1418BA4A-29B9-4FBC-9C39-84927224CD5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/AddIngredientsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CCED495-2B7F-4CAE-A98D-C8DB6101DC19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/AddIngredientsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66AC43BF-6507-42CA-97D1-55C14F652CA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/AddIngredientsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C0F357D-26DB-4F73-B929-048E59C955AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/AddIngredientsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA07F8F1-77EA-44D6-AB10-1E13532EDDD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/AddIngredientsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138">
+            <Locations>
+               <Location
+                  uuid = "DA07F8F1-77EA-44D6-AB10-1E13532EDDD0 - cd70e02328b9f869"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.AddIngredientsView.watchSelection(category: FitMe.DietPreference) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/AddIngredientsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+               <Location
+                  uuid = "DA07F8F1-77EA-44D6-AB10-1E13532EDDD0 - cd70e02328b9f869"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.AddIngredientsView.watchSelection(category: FitMe.DietPreference) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/AddIngredientsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53E14C15-F169-45BE-82B1-BD8758A26642"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/AddIngredientsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136">
+            <Locations>
+               <Location
+                  uuid = "53E14C15-F169-45BE-82B1-BD8758A26642 - cd70e02328b9f8ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.AddIngredientsView.watchSelection(category: FitMe.DietPreference) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/AddIngredientsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+               <Location
+                  uuid = "53E14C15-F169-45BE-82B1-BD8758A26642 - cd70e02328b9f8ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.AddIngredientsView.watchSelection(category: FitMe.DietPreference) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/AddIngredientsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "53E14C15-F169-45BE-82B1-BD8758A26642 - 4e73745c8171d9d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FitMe.FoodDislikes) -&gt; Swift.Bool in FitMe.AddIngredientsView.watchSelection(category: FitMe.DietPreference) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/AddIngredientsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AB755FE-CD01-457C-8FE3-41A108853CA0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/AddIngredientsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137">
+            <Locations>
+               <Location
+                  uuid = "2AB755FE-CD01-457C-8FE3-41A108853CA0 - cd70e02328b9f869"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.AddIngredientsView.watchSelection(category: FitMe.DietPreference) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/AddIngredientsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+               <Location
+                  uuid = "2AB755FE-CD01-457C-8FE3-41A108853CA0 - cd70e02328b9f888"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FitMe.AddIngredientsView.watchSelection(category: FitMe.DietPreference) -&gt; ()"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/AddIngredientsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A99EBD17-1D50-4E3E-9FC3-F7E412173AA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FitMe/Views/Recipe/MyRecipes.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A99EBD17-1D50-4E3E-9FC3-F7E412173AA4 - 89b1538182aa5e2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in FitMe.MyRecipes.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/MyRecipes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A99EBD17-1D50-4E3E-9FC3-F7E412173AA4 - bf301b8ee87ddd96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in FitMe.MyRecipes.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/MyRecipes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "A99EBD17-1D50-4E3E-9FC3-F7E412173AA4 - 7af4730303b71c2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in FitMe.MyRecipes.body.getter : some"
+                  moduleName = "FitMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Archive/fitMe_iOS/FitMe/Views/Recipe/MyRecipes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
